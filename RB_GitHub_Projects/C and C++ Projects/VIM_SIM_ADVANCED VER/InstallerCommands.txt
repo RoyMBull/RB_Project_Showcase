@@ -1,0 +1,5 @@
+Installer commands
+	cpp for g++ compiler
+	c for gcc compiler
+	py for python compiler
+	
