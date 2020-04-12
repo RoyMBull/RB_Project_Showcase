@@ -1,7 +1,0 @@
-Supported types:
-	C++/C
-	Python2
-	Python3
-	C#
-	Assembly
-	
