@@ -1,0 +1,32 @@
+Prototype app#1:
+
+premise: 
+	The goal of the app is to design it to utilize programs and scripts and the simple press of a button,
+	where instead of using wrappe functions, the code will call other languages/other porgrams to run it's function,
+	much like my VIM_SIM program
+	
+	part1(the main interface):
+		-the program will be password protected to ensure only I can use it, and 
+		will be encrypted with a hash text file, for simplicities sake.
+		
+	class TheButtons: Bashdirectory, 
+	{
+		BashScripts():
+			-Opens another user interface to display all the executable scripts via buttons.
+			-These buttons are intended to be a 
+			
+		NotepadEditor():
+			-allows the user to pull up a quick text file
+				features():
+					save
+					del 
+					open button 
+		
+	}
+	
+Do now: Finish designinig the user interface 
+	-set up the line edit and password 
+	-set up password access the program. ->this code will be in C, and store the password, having a script be called 
+		with grep to check if the user password matches 
+	-finish intstalling the buttons neccessary to run the user interface 
+	
