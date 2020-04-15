@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 
 filename="enter_your_file_name_here"
 
