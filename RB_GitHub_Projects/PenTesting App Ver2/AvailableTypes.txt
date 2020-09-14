@@ -1,0 +1,15 @@
+Available types
+	ext4
+	ext2 
+	devtmpfs
+	devpts
+	tmpfs 
+	proc 
+	sysfs 
+	debugfs
+	tracefs
+	cgroup
+	pstore
+	
+	
+	
