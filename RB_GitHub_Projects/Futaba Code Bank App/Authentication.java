@@ -69,7 +69,17 @@ public class Main extends Application implements EventHandler<ActionEvent>
                     //Authenticate the user
                     if (uservalid.contentEquals("kali") && passfield.contentEquals("kali"))
                     {
-                    	AlertBox.win2();                    	
+                    	StandardVersion.win2();                    	
+                    }
+                    
+                    else if (uservalid.contentEquals("kali") && passfield.contentEquals("kali2"))
+                    {
+                    	AdvancedVersion.win3();                    	
+                    }
+                    
+                    else if (uservalid.contentEquals("kali") && passfield.contentEquals("kali3"))
+                    {
+                    	System.out.println("Currently Unavailable");                    	
                     }
                     
                 }
