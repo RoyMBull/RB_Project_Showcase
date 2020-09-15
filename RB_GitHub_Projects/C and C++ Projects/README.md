@@ -3,3 +3,6 @@
       to: Install a variety of compilers you may need, Execute different code in the directory of he program, Open 
       a file, read a file, write to a file via the terminal with whitespaces with a save option allowing you to 
       write code on the fly and save it to a desired file, as well as a manual for the program. 
+      
+(POS):
+      This program simulates a POS system at restaurants.
