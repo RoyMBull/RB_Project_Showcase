@@ -1,7 +1,7 @@
 UserNames & Passwords:
-kali kali -> basic version will open
-kali kali2 -> Advanced version will open
-kali kali3 -> Omega version will open (Currently unavailable)
+(kali kali -> basic version will open)
+(kali kali2 -> Advanced version will open)
+(kali kali3 -> Omega version will open (Currently unavailable))
 
 This is a sample of a Code bank app I've written to host 6, going on 7, years of my research and experience as a self-taught software engineer. 
 You'll notice after authenticating, a menu will appear, with a set of menu's and items. When you click on the menu item the program will open a text area
